@@ -1,0 +1,344 @@
+# Galaxy-The-Universe
+Save the Universe!
+.intro {
+  font-family: 'Cinzel Decorative', cursive;
+  color: white;
+  font-size: 90px;
+  padding-left: 50px;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #3d00e6, 0 0 40px #8a00e6, 0 0 50px #2a00e6, 0 0 60px #6b00e6, 0 0 70px #7f00e6;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #8b4dff, 0 0 40px #ff4da6, 0 0 50px #b84dff, 0 0 60px #684dff, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+
+}
+
+p{
+  color: white;
+  font-family: 'Manrope', sans-serif;
+  font-size: 30px;
+  border-style: double;
+  border-width: 7px;
+  background-color:#262fac;
+}
+
+body {
+ background-image: url("https://scx2.b-cdn.net/gfx/news/hires/2019/galaxy.jpg");
+ }
+
+
+.house{
+  font-size: 40px;
+  color: white;
+  border-width: 15px;
+  border-color:#684dff;
+  padding-left: 248px;
+  margin-bottom: 20px;
+  padding-right: 248px;
+    padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: 'Cinzel Decorative', cursive;
+  background-color: #684dff;
+ text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #3d00e6, 0 0 40px #8a00e6, 0 0 50px #2a00e6, 0 0 60px #6b00e6, 0 0 70px #7f00e6;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #8b4dff, 0 0 40px #ff4da6, 0 0 50px #b84dff, 0 0 60px #684dff, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+
+}
+
+.house:hover{
+
+font-size: 40px;
+  color: white;
+  border-width: 15px;
+  border-color:#4d85ff;
+  padding-left: 244px;
+   margin-bottom: 20px;
+  padding-right: 244px;
+    padding-top: 30px;
+     margin-bottom: 20px;
+  padding-bottom: 30px;
+  font-family: 'Cinzel Decorative', cursive;
+  background-color: #4d7cff;
+ text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #3d00e6, 0 0 40px #8a00e6, 0 0 50px #2a00e6, 0 0 60px #6b00e6, 0 0 70px #7f00e6;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #8b4dff, 0 0 40px #ff4da6, 0 0 50px #b84dff, 0 0 60px #684dff, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+
+}
+.no {
+ font-size: 40px;
+  color: white;
+  border-width: 15px;
+  border-color:#c74dff;
+  padding-left: 195px;
+   margin-bottom: 20px;
+  padding-right: 195px;
+    padding-top: 30px;
+     margin-bottom: 20px;
+  padding-bottom: 30px;
+  font-family: 'Cinzel Decorative', cursive;
+  background-color: #cd4dff;
+ text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #3d00e6, 0 0 40px #8a00e6, 0 0 50px #2a00e6, 0 0 60px #6b00e6, 0 0 70px #7f00e6;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #8b4dff, 0 0 40px #ff4da6, 0 0 50px #b84dff, 0 0 60px #684dff, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+
+}
+
+.no:hover{
+
+font-size: 40px;
+  color: white;
+  border-width: 15px;
+  border-color:#7c4dff;
+  padding-left: 195px;
+   margin-bottom: 20px;
+  padding-right: 195px;
+    padding-top: 30px;
+     margin-bottom: 20px;
+  padding-bottom: 30px;
+  font-family: 'Cinzel Decorative', cursive;
+  background-color: #824dff;
+ text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #3d00e6, 0 0 40px #8a00e6, 0 0 50px #2a00e6, 0 0 60px #6b00e6, 0 0 70px #7f00e6;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #8b4dff, 0 0 40px #ff4da6, 0 0 50px #b84dff, 0 0 60px #684dff, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+
+}
+
+.oh {
+ font-size: 40px;
+  color: white;
+  border-width: 15px;
+  border-color:#4d59ff;
+  padding-left: 196px;
+  padding-right: 197px;
+   margin-bottom: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: 'Cinzel Decorative', cursive;
+  background-color: #4d8bff;
+ text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #3d00e6, 0 0 40px #8a00e6, 0 0 50px #2a00e6, 0 0 60px #6b00e6, 0 0 70px #7f00e6;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #8b4dff, 0 0 40px #ff4da6, 0 0 50px #b84dff, 0 0 60px #684dff, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+
+}
+
+.oh:hover{
+
+font-size: 40px;
+  color: white;
+  border-width: 15px;
+  border-color:#d54dff;
+  padding-left: 195px;
+   margin-bottom: 20px;
+  padding-right: 195px;
+    padding-top: 30px;
+     margin-bottom: 20px;
+  padding-bottom: 30px;
+  font-family: 'Cinzel Decorative', cursive;
+  background-color: #be4dff;
+ text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #3d00e6, 0 0 40px #8a00e6, 0 0 50px #2a00e6, 0 0 60px #6b00e6, 0 0 70px #7f00e6;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #8b4dff, 0 0 40px #ff4da6, 0 0 50px #b84dff, 0 0 60px #684dff, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+
+}
+
+
+ody {
+  font-family: 'Bebas Neue', cursive;
+  margin: 2em;
+  background: linear-gradient(to bottom, #99ccff 0%, #ffccff 100%);
+}
+
+h1 {
+  font-style: bold;
+  color: #373fff;
+  text-align: center;
+  font-size: 60px;
+  color: white;
+  background-color: #6666ff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-shadow: 4px 4px skyblue;
+}
+
+h2 {
+  margin-top: 1em; 
+  font-size: 40px;
+  color: white;
+}
+
+.question {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 25em;
+}
+
+button {
+  background: linear-gradient(to bottom, #6666ff 0%, #6666ff 100%);
+  color: white;
+  border-color: blue;
+  font-size: 25px;
+    border-width: 15px;
+  border-radius: 20px;
+  width: 55%;
+  font-family: 'Bebas Neue', cursive;
+  
+}
+
+button:hover {
+  background: linear-gradient(to bottom, #99ccff 0%, #ffccff 100%);
+  color: black;
+  border-color: #6666ff;
+  font-size: 22px;
+    border-width: 15px;
+  border-radius: 20px;
+  width: 55%;
+}
+
+#result {
+  color:white;
+}
+
+
+#proof{
+  color:white;
+}
+
+.ga {
+  
+  display: inline;
+}
+
+
+.ok {
+  display: flex;
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+#q41 {
+
+}
+
+#q42 {
+  
+}
+
+#q43 {
+  
+}
+
+#q43 {
+  
+}
+
+body {
+  background-image: url("https://scx2.b-cdn.net/gfx/news/hires/2019/galaxy.jpg");
+ }
+
+.woof {
+  color: white;
+  font-size: 120px;
+text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #3d00e6, 0 0 40px #8a00e6, 0 0 50px #2a00e6, 0 0 60px #6b00e6, 0 0 70px #7f00e6;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #8b4dff, 0 0 40px #ff4da6, 0 0 50px #b84dff, 0 0 60px #684dff, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+
+}
+
+
+h5 {
+  color:#3d00e6;
+  background: #99ccff;
+  border-style: double;
+  border-width: 10px;
+  font-size: 30px;
+}
+
+button {
+  padding-right: 170px;
+}
